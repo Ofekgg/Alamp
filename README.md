@@ -30,5 +30,11 @@ The following libraries are required to compile the project. You can install the
 1. **Hardware:** Connect the LED strip as shown in the wiring diagram (Red to Vin, Black to GND, Green to GPIO 4).
 2. **Configuration:** On first boot, connect to the "Alamp_AP" Wi-Fi network, then to "http://alamp.local" (or 192.168.4.1) to configure your home internet settings and locations setup.
 
+## 📹 Assembly videos
+**Hardware soldering on YT:** https://www.youtube.com/watch?v=_tTMu73XNp4
+
+**AP setup:** https://www.youtube.com/shorts/ZB-lBItkt8k?si=XNb_9eMLOesEYwtH
+
 ## ⚖️ License
 This project is open-source. Feel free to use and modify it to help keep people safe.
+USE AT YOUR OWN RISK!
